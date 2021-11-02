@@ -4,6 +4,8 @@ attrs==21.2.0
 backcall==0.2.0
 bleach==4.1.0
 certifi==2021.5.30
+Flask==1.1.2
+flask
 cffi==1.14.6
 colorama==0.4.4
 cycler==0.10.0
