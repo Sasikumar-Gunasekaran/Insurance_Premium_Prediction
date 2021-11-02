@@ -63,7 +63,6 @@ tornado==6.1
 traitlets==5.1.0
 typing-extensions==3.10.0.2
 wcwidth==0.2.5
-webencodings==0.5.1
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
